@@ -9,7 +9,7 @@ import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferByte;
 
 /**
- * Created by kofee on 2016/3/28.
+ * Created by kofee on 2016/3/28.  sdfadgasgasgasgdsaeasgsgdeawegsdasgeag
  */
 public class ImgViewer {
     private JLabel imageView;
